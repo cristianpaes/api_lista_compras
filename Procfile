@@ -1,1 +1,1 @@
-web: gunicorn compras.wsgi
+web: gunicorn backend.wsgi
